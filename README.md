@@ -7,7 +7,7 @@
   <li>Hibernate and Hibernate Validation</li>
   <li>Open Api</li>
   <li>JWT</li>
-  <li>Encache</li>
+  <li>Ehcache</li>
   <li>Log4j2</li>
 </ul>  
   
